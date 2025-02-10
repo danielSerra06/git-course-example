@@ -7,3 +7,5 @@ Learning how to make commits.
 3. git commit -m "adding ..." -- creates a commit
 
 More lines to test.
+
+TESTE
